@@ -49,7 +49,7 @@
 <TextBlock TextWrapping="Wrap" Margin="0,0,0,10" FontSize="22" FontWeight="Bold">其他</TextBlock>
 <local:MyCard Margin="0,5,0,15" CanSwap="False">
 <StackPanel Margin="5,5,5,5">
-<local:MyListItem Margin="0,0,0,0" Logo="https://avatars.githubusercontent.com/u/262317357?v=4" EventType="打开帮助" Title="关于 OpenMysticRCS" Info="github-release 20260606-3" EventData="https://github.com/Mystic-MCNetwork/MysticRCS/releases/latest/download/About.json" Type="Clickable"/>
+<local:MyListItem Margin="0,0,0,0" Logo="https://avatars.githubusercontent.com/u/262317357?v=4" EventType="打开帮助" Title="关于 OpenMysticRCS" Info="更新通道 github-release" EventData="https://github.com/Mystic-MCNetwork/MysticRCS/releases/latest/download/About.json" Type="Clickable"/>
 </StackPanel>
 </local:MyCard>
 </StackPanel>
