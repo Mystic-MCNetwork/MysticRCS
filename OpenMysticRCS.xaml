@@ -58,7 +58,7 @@
      </Grid.ColumnDefinitions>
 </Grid>
 <Border Margin="-25,0,-25,-10" CornerRadius="0" BorderThickness="0,0,0,0">
-<StackPanel Margin="25,0,0,15">
+<StackPanel Margin="25,0,25,15">
 <TextBlock TextWrapping="Wrap" Margin="0,0,0,10" FontSize="22" FontWeight="Bold">其他</TextBlock>
 <local:MyCard Margin="0,5,0,15" CanSwap="False">
 <StackPanel Margin="5,5,5,5">
